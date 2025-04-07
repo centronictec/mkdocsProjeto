@@ -6,8 +6,6 @@ nav:
   - Guia de Instalação: install.md
   - Configuração: config.md
   - FAQ: faq.md
-    #theme: 
-    #name: readthedocs
 theme:
    name: material
 features:
