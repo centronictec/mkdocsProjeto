@@ -3,6 +3,9 @@ nav:
   - Home: index.md
   - Sobre: about.md
   - Vinda: vinda.md
+  - Guia de Instalação: install.md
+  - Configuração: config.md
+  - FAQ: faq.md
     #theme: 
     #name: readthedocs
 theme:
