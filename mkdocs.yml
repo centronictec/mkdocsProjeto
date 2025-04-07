@@ -1,0 +1,16 @@
+site_name: PaginaDocs
+nav:
+  - Home: index.md
+  - Sobre: about.md
+  - Vinda: vinda.md
+    #theme: 
+    #name: readthedocs
+theme:
+   name: material
+features:
+  - navigation.tabs
+  - navigation.top
+palette:
+  - scheme: default
+  - primary: indigo
+  - accent: blue
